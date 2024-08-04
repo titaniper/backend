@@ -1,3 +1,6 @@
 [submodule "Golang"]
 	path = Golang
 	url = git@github.com:titaniper/Golang.git
+[submodule "websocket"]
+	path = websocket
+	url = git@github.com:titaniper/websocket.git
