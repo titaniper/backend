@@ -4,3 +4,6 @@
 [submodule "websocket"]
 	path = websocket
 	url = git@github.com:titaniper/websocket.git
+[submodule "spring"]
+	path = spring
+	url = git@github.com:titaniper/spring.git
