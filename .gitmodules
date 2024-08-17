@@ -7,3 +7,6 @@
 [submodule "spring"]
 	path = spring
 	url = git@github.com:titaniper/spring.git
+[submodule "node"]
+	path = node
+	url = git@github.com:titaniper/node.git
