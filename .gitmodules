@@ -16,3 +16,6 @@
 [submodule "rust"]
 	path = rust
 	url = git@github.com:titaniper/rust.git
+[submodule "nestjs"]
+	path = nestjs
+	url = git@github.com:titaniper/nestjs.git
